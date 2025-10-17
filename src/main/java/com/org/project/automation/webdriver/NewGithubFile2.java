@@ -6,5 +6,7 @@ public class NewGithubFile2 {
        System.out.println(name);
        System.out.println("Main Brach updates");
        System.out.println("Main Branch updates");
+       System.out.println("Main new Branch updates");
+
     }
 }
