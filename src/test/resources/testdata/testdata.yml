@@ -1,0 +1,15 @@
+application_urls:
+  - UAT1: www.google.com
+  - SIT1: https://google.com
+
+application_url: "https://www.google.co.in/"
+
+testcase_1:
+  - title: valid login
+  - search_key: UBS
+  - search_result: UBS Pune
+
+testcase_2:
+  title: invalid login
+  search_key: UBS Ravet
+  search_result: not found
