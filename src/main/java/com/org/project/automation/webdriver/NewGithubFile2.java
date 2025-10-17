@@ -4,5 +4,6 @@ public class NewGithubFile2 {
     public static void main(String[] args) {
         String name="Prajapati";
        System.out.println(name);
+       System.out.println("Main Brach updates");
     }
 }
