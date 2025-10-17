@@ -2,5 +2,5 @@ package com.org.project.automation.webdriver;
 
 public class NewGithubFile {
 
-  "Lamarnika"
+  String name="Lamarnika";
 }
