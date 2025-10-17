@@ -5,5 +5,6 @@ public class NewGithubFile2 {
         String name="Prajapati";
        System.out.println(name);
        System.out.println("Main Brach updates");
+       System.out.println("Main Branch updates");
     }
 }
